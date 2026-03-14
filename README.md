@@ -2,7 +2,7 @@
 
 This repository contains the implementation of a **Topic-Agnostic Focused Web Crawler** utilizing a Hybrid Vector-Reinforcement Learning architecture. Designed for edge deployment (e.g., NVIDIA Jetson), this system leverages **Offline Reinforcement Learning** to navigate web hierarchies using geometric relevance gradients rather than keyword matching.
 
-## 📋 Table of Contents
+## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Workflow Overview](#workflow-overview)
@@ -18,7 +18,7 @@ This repository contains the implementation of a **Topic-Agnostic Focused Web Cr
 * **CUDA-capable GPU** (Recommended for training) or NVIDIA Jetson (for inference)
 * **Groq API Key** (For LLM-based trajectory evaluation)
 
-## 📦 Installation
+## Installation
 
 1.  Clone the repository:
     ```bash
@@ -34,7 +34,7 @@ This repository contains the implementation of a **Topic-Agnostic Focused Web Cr
 
 ---
 
-## 🚀 Workflow Overview
+## Workflow Overview
 
 The experiment follows a strict pipeline: **Collection $\to$ Vectorization $\to$ Training $\to$ Deployment $\to$ Evaluation**.
 
