@@ -1,0 +1,52 @@
+[
+    {
+        "url": "https://www.euroleaguebasketball.net/euroleague/news/",
+        "category": "positive",
+        "description": "Official EuroLeague News (Pure Signal)"
+    },
+    {
+        "url": "https://www.eurohoops.net/en/trademarks/euroleague/",
+        "category": "positive",
+        "description": "Eurohoops EuroLeague Section (Pure Signal)"
+    },
+    {
+        "url": "https://basketnews.com/news/euroleague",
+        "category": "positive",
+        "description": "BasketNews EuroLeague Section (Pure Signal)"
+    },
+    {
+        "url": "https://sportando.basketball/en/cups/euroleague/",
+        "category": "positive",
+        "description": "Sportando EuroLeague Section (Pure Signal)"
+    },
+    {
+        "url": "https://www.nba.com/news",
+        "category": "negative",
+        "description": "NBA Official News (High-Similarity Noise)"
+    },
+    {
+        "url": "https://www.si.com/nba",
+        "category": "negative",
+        "description": "Sports Illustrated NBA (High-Similarity Noise)"
+    },
+    {
+        "url": "https://basketball.realgm.com/ncaa/",
+        "category": "negative",
+        "description": "NCAA Basketball (High-Similarity Noise)"
+    },
+    {
+        "url": "https://hoopshabit.com/",
+        "category": "negative",
+        "description": "General NBA Blog (High-Similarity Noise)"
+    },
+    {
+        "url": "https://www.espn.com/nba/",
+        "category": "negative",
+        "description": "ESPN NBA (High-Similarity Noise)"
+    },
+    {
+        "url": "https://basketnews.com/",
+        "category": "mixed",
+        "description": "General Portal (Contains both - Agent must filter)"
+    }
+]
